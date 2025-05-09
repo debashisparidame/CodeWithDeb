@@ -1,6 +1,6 @@
 # 🚀 Code With Deb
 
-![Code With Deb](image.png)
+![Code With Deb](./assets/image.png)
 
 ## 📝 Description
 
